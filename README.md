@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arnaud Lier</h1>
 <h3 align="center">A student who co-founded CurseGroup</h3>
+
 - 🔭 I’m currently working on [CurseHosting](https://www.cursehosting.fr)
 
 - 👯 I’m looking to collaborate on [Pterodactyl Panel](https://pterodactyl.io)
