@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [CurseHosting](https://www.cursehosting.fr)
 
-- 👯 I’m looking to collaborate on [Pterodactyl Panel](https://pterodactyl.io)
-
 - 👨‍💻 All of my projects are available at [https://zeprof2coding.me](https://zeprof2coding.me)
 
 - 💬 Ask me about **php**
