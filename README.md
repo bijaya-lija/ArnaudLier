@@ -29,13 +29,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/zeprof2code" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="zeprof2code" height="30" width="40" /></a>
+<a href="https://dev.to/zeprof2coding" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="zeprof2coding" height="30" width="40" /></a>
 <a href="https://twitter.com/zeprof2coding" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="zeprof2coding" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/12010780" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="12010780" height="30" width="40" /></a>
 <a href="https://fb.com/zeprof2coding" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="zeprof2coding" height="30" width="40" /></a>
 <a href="https://instagram.com/arnaud.lier" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="arnaud.lier" height="30" width="40" /></a>
-<a href="https://medium.com/@zeprofdecoding" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@zeprofdecoding" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/zeprof2coding" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="zeprof2coding" height="30" width="40" /></a>
+<a href="https://medium.com/@zeprof2coding" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@zeprof2coding" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCvTijrdap5bqSDTn2IPiINw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ZeProf2Coding" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
