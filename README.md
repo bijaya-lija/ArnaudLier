@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arnaud Lier</h1>
-<h3 align="center">A student who founded Eclxo</h3>
+<h3 align="center">A student who founded Eclixo</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeprof2code&label=Profile%20views&color=0e75b6&style=flat" alt="zeprof2code" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/zeprof2coding" target="blank"><img src="https://img.shields.io/twitter/follow/zeprof2coding?logo=twitter&style=for-the-badge" alt="zeprof2coding" /></a> </p>
 
-- 🔭 I’m currently working on [Eclxo](https://www.eclxo.com)
+- 🔭 I’m currently working on [Eclixo](https://www.eclxo.com)
 
 - 🌱 I’m currently learning **C++**
 
