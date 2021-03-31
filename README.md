@@ -23,6 +23,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to use Puppeteer to scrape  your MonBureauNumerique's timetable.](https://dev.to/zeprof2coding/how-to-use-puppeteer-to-scrape-your-monbureaunumerique-s-timetable-162e)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
