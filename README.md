@@ -9,15 +9,15 @@
 
 - 🔭 I’m currently working on [Eclixo](https://www.eclixo.com)
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **C**
 
 - 👯 I’m looking to collaborate on [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 
 - 👨‍💻 All of my projects are available at [https://zeprof2code.github.io](https://zeprof2code.github.io)
 
-- 💬 Ask me about **PHP and JavaScript**
+- 💬 Ask me about **PHP and TypeScript**
 
-- 📫 How to reach me **zeprofdecoding@gmail.com**
+- 📫 How to reach me **[arnaud@eclixo.com](mailto:arnaud@eclixo.com)**
 
 - 📄 Know about my experiences [https://zeprof2code.github.io](https://zeprof2code.github.io)
 
