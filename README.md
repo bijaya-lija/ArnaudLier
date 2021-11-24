@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Arnaud LIER</h1>
 <h3 align="center">A passionate student who founded Eclixo</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zeprof2code&label=Profile%20views&color=0e75b6&style=flat" alt="zeprof2code" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arnaudlier&label=Profile%20views&color=0e75b6&style=flat" alt="arnaudlier" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeprof2code&theme=nord&no-bg=true&no-frame=true" alt="zeprof2code" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnaudlier&theme=nord&no-bg=true&no-frame=true" alt="arnaudlier" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/zeprof2coding" target="blank"><img src="https://img.shields.io/twitter/follow/zeprof2coding?logo=twitter&style=for-the-badge" alt="zeprof2coding" /></a> </p>
+<p align="left"> <a href="https://twitter.com/arnaud_lier" target="blank"><img src="https://img.shields.io/twitter/follow/arnaud_lier?logo=twitter&style=for-the-badge" alt="arnaudlier" /></a> </p>
 
 - 🔭 I’m currently working on [Eclixo](https://www.eclixo.com)
 
@@ -13,13 +13,13 @@
 
 - 👯 I’m looking to collaborate on [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 
-- 👨‍💻 All of my projects are available at [https://zeprof2code.github.io](https://zeprof2code.github.io)
+- 👨‍💻 All of my projects are available at [https://arnaudlier.github.io](https://arnaudlier.github.io)
 
 - 💬 Ask me about **PHP and TypeScript**
 
 - 📫 How to reach me **[arnaud@eclixo.com](mailto:arnaud@eclixo.com)**
 
-- 📄 Know about my experiences [https://zeprof2code.github.io](https://zeprof2code.github.io)
+- 📄 Know about my experiences [https://arnaudlier.github.io](https://arnaudlier.github.io)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -29,7 +29,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/zeprof2coding" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="zeprof2coding" height="30" width="40" /></a>
-<a href="https://twitter.com/zeprof2coding" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="zeprof2coding" height="30" width="40" /></a>
+<a href="https://twitter.com/arnaud_lier" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="arnaud_lier" height="30" width="40" /></a>
 <a href="https://fb.com/zeprof2coding" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="zeprof2coding" height="30" width="40" /></a>
 <a href="https://instagram.com/arnaud.lier" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="arnaud.lier" height="30" width="40" /></a>
 <a href="https://medium.com/@zeprof2coding" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@zeprof2coding" height="30" width="40" /></a>
@@ -43,8 +43,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/zeprof2coding"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="zeprof2coding" /></a></p><br><br>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=zeprof2code&show_icons=true&locale=en&layout=compact&theme=nord&hide_border=true" alt="zeprof2code" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=arnaudlier&show_icons=true&locale=en&layout=compact&theme=nord&hide_border=true" alt="arnaudlier" /></p>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=zeprof2code&show_icons=true&locale=en&theme=nord&hide_border=true" alt="zeprof2code" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=arnaudlier&show_icons=true&locale=en&theme=nord&hide_border=true" alt="arnaudlier" /></p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=zeprof2code&theme=nord&hide_border=true" alt="zeprof2code" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=arnaudlier&theme=nord&hide_border=true" alt="arnaudlier" /></p>
