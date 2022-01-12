@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 👯 I’m looking to collaborate on [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+- 👯 I’m looking to collaborate on [laravel/framework](https://github.com/laravel/framework)
 
 - 👨‍💻 All of my projects are available at [https://arnaudlier.github.io](https://arnaudlier.github.io)
 
