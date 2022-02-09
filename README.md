@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on [Eclixo](https://www.eclixo.com)
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **Rust**
 
-- 👯 I’m looking to collaborate on [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+- 👯 I’m looking to collaborate on [laravel/framework](https://github.com/laravel/framework)
 
 - 👨‍💻 All of my projects are available at [https://arnaudlier.github.io](https://arnaudlier.github.io)
 
@@ -23,7 +23,6 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [How to use Puppeteer to scrape  your MonBureauNumerique&#39;s timetable.](https://dev.to/arnaudlier/how-to-use-puppeteer-to-scrape-your-monbureaunumerique-s-timetable-162e)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
